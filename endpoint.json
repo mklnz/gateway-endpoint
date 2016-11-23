@@ -4,12 +4,20 @@
     {
       "url":"https://api.chinanetspeed.org",
       "priority":1
+    },
+    {
+      "url":"https://api.example.com",
+      "priority":2
     }
   ],
   "metadata_servers":[
     {
       "url":"https://github.com/mklnz/gateway-endpoint/edit/master/endpoint.json",
       "priority":1
+    },
+    {
+      "url":"https://example.com/endpoint.json",
+      "priority":2
     }
   ]
 }
