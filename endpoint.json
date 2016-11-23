@@ -2,18 +2,14 @@
   "updated_at":"2016-11-23T03:18:22.257Z",
   "api_servers":[
     {
-      "url":"https://api.example2.com",
-      "priority":2
+      "url":"https://api.chinanetspeed.org",
+      "priority":1
     }
   ],
   "metadata_servers":[
     {
       "url":"https://raw.githubusercontent.com/mklnz/gateway-endpoint/master/endpoint.json",
       "priority":1
-    },
-    {
-      "url":"https://example.com/endpoint.json",
-      "priority":2
     }
   ]
 }
